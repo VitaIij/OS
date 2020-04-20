@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  OSlaba2.cpp
+  MemAllocator.cpp
+c:\users\виталий\source\repos\os_laba2\os_laba2\memallocator.cpp(51): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виталий\source\repos\os_laba2\os_laba2\memallocator.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виталий\source\repos\os_laba2\os_laba2\memallocator.cpp(119): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виталий\source\repos\os_laba2\os_laba2\memallocator.cpp(159): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виталий\source\repos\os_laba2\os_laba2\memallocator.cpp(181): warning C4244: return: преобразование "double" в "::size_t", возможна потеря данных
+c:\users\виталий\source\repos\os_laba2\os_laba2\memallocator.cpp(192): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виталий\source\repos\os_laba2\os_laba2\memallocator.cpp(194): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виталий\source\repos\os_laba2\os_laba2\memallocator.cpp(216): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виталий\source\repos\os_laba2\os_laba2\memallocator.cpp(256): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\виталий\source\repos\os_laba2\os_laba2\memallocator.cpp(282): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  OS_laba2.vcxproj -> C:\Users\Виталий\source\repos\OS_laba2\Debug\OS_laba2.exe
+  OS_laba2.vcxproj -> C:\Users\Виталий\source\repos\OS_laba2\Debug\OS_laba2.pdb (Partial PDB)
