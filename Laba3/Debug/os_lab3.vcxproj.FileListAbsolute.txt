@@ -1,0 +1,2 @@
+D:\kpi\os\os_lab3_vet\Debug\os_lab3.exe
+D:\kpi\os\os_lab3_vet\Debug\os_lab3.pdb

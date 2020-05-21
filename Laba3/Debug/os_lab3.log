@@ -1,0 +1,3 @@
+﻿  TaskManager.cpp
+D:\kpi\os\os_lab3_vet\TaskManager.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  os_lab3.vcxproj -> D:\kpi\os\os_lab3_vet\Debug\os_lab3.exe
